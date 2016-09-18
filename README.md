@@ -1,7 +1,5 @@
 
-# LES GO
-
-A quick starter repo that includes Flask and React, with Babel and Webpack. For proof-of-concept projects, workshop settings, etc where you don't want to worry about developer setup or writing config files.
+# choosr
 
 TLDR; for the quick and dirty setup, install your dependencies:
 
