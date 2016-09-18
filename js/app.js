@@ -224,7 +224,6 @@ var App = React.createClass({
           winner = _.find(this.state.restaurants, _.bind(function(restaurant) {
             return (restaurant.suggestion == winner);
           }, this))
-          debugger;
           this.setState({step: "result", winner: winner});
         }, this))
       }
